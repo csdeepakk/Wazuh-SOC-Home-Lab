@@ -389,7 +389,7 @@ Filter by:
 ### 5. Documentation Details
 
 
-![Documentation Details](../Screenshots/details.png)
+![Documentation Details](../Screenshots/documentation-details.png)
 
 
 ## 9. Phase 6 — Alert Analysis
