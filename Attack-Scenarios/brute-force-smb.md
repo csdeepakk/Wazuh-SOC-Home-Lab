@@ -356,7 +356,40 @@ Filter by:
 
 > 📸 **Attach Screenshot here:** Wazuh dashboard showing multiple 4625 alerts with source IP of Kali Linux
 
----
+## 📸 Screenshots
+
+### 1. Hydra Running — Brute Force Attack
+
+
+![Hydra Running](../Screenshots/hydra-running.png)
+
+
+
+### 2. Wazuh Alert — Event ID 4625
+
+
+![Wazuh Alert 4625](../Screenshots/wazuh-alerts-4625.png)
+
+
+
+### 3. Wazuh Rule 18152 Triggered
+
+
+![Wazuh Rule 18152](../Screenshots/wazuh-rule-18152.png)
+
+
+
+### 4. Alert Source IP — Kali Linux Detected
+
+
+![Alert Source IP](../Screenshots/alert-source-ip.png)
+
+
+
+### 5. Account Lockout — Event ID 4740
+
+
+![Account Lockout](../Screenshots/account-lockout.png)
 
 ## 9. Phase 6 — Alert Analysis
 
