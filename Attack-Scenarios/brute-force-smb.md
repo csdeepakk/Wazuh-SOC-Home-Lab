@@ -368,7 +368,7 @@ Filter by:
 ### 2. Wazuh Alert — Event ID 
 
 
-![Wazuh Alert ](../Screenshots/wazuh-alerts.png)
+![Wazuh Alert ](../Screenshots/wazuh-alert.png)
 
 
 
