@@ -365,10 +365,10 @@ Filter by:
 
 
 
-### 2. Wazuh Alert — Event ID 4625
+### 2. Wazuh Alert — Event ID 
 
 
-![Wazuh Alert 4625](../Screenshots/wazuh-alerts-4625.png)
+![Wazuh Alert ](../Screenshots/wazuh-alerts.png)
 
 
 
