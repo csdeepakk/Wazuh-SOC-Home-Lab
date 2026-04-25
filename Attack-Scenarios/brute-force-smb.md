@@ -386,10 +386,12 @@ Filter by:
 
 
 
-### 5. Account Lockout — Event ID 4740
+### 5. Documentation Details & Json file 
 
 
-![Account Lockout](../Screenshots/account-lockout.png)
+![Documentation Details](../Screenshots/details.png)
+![Json File](../Screenshots/json-file.png)
+
 
 ## 9. Phase 6 — Alert Analysis
 
