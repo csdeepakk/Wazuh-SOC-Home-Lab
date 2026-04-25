@@ -372,10 +372,10 @@ Filter by:
 
 
 
-### 3. Wazuh Rule 18152 Triggered
+### 3. Wazuh Rule Triggered
 
 
-![Wazuh Rule 18152](../Screenshots/wazuh-rule-18152.png)
+![Wazuh Rule](../Screenshots/wazuh-rule.png)
 
 
 
