@@ -379,7 +379,7 @@ Filter by:
 
 
 
-### 4. Alert Source IP — Kali Linux Detected
+### 4. Alert Source IP 
 
 
 ![Alert Source IP](../Screenshots/alert-source-ip.png)
