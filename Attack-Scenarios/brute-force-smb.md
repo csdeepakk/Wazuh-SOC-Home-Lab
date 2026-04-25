@@ -386,11 +386,10 @@ Filter by:
 
 
 
-### 5. Documentation Details & Json file 
+### 5. Documentation Details
 
 
 ![Documentation Details](../Screenshots/details.png)
-![Json File](../Screenshots/json-file.png)
 
 
 ## 9. Phase 6 — Alert Analysis
